@@ -22,7 +22,7 @@ const Contact = () => {
             <div className="container lg:grid-cols-2 lg:items-stretch">
                 <div className="mb-12 lg:mb-0 lg:flex lg:flex-col">
                     <h2 className="section-title mb-0 reveal-up">
-                        contact me for <span>collaboration</span> :
+                        contact for <span>collaboration</span> :
                     </h2>
 
                     <p className="text-zinc-400 mt-3 mb-8 max-w-[50ch] lg:max-w-[40ch] reveal-up font-s-16">
