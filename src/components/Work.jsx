@@ -13,7 +13,8 @@ const works = [
     imgSrc: '/images/project-02.png',
     title: 'France Media Groupe',
     tags: ['Information', 'Media'],
-    projectLink: 'https://glorydemo.agency/HTML/FranceMediaGroupe/'
+    projectLink: 'https://glorydemo.agency/HTML/FranceMediaGroupe/',
+    className: 'disabledProject'
   },
   {
     imgSrc: '/images/project-08.png',
